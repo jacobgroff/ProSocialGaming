@@ -6,7 +6,7 @@ Open-source framework for promoting positive social behaviors in online gaming c
 # Dota 2 Chat Log Data Set
 Training Set Count: 1000
 ## Labels
-    None of the labels are mutually exclusive. You may encounter toxic teamwork. Just like the workplace sometimes.
+None of the labels are mutually exclusive. You may encounter toxic teamwork. Just like the workplace sometimes.
 ### Positivity, Teamwork, Sportsmanship
 - Positivity
     - Overall comment is opposite of negative. Neutral comments are included as positive.
