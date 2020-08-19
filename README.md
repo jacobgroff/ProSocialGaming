@@ -1,11 +1,11 @@
 # ProSocialGaming
 Open-source framework for promoting positive social behaviors in online gaming communities
 
-1. First Project is Dota 2 PSG Model
+# First Project is Dota 2 PSG Model
 
-# Dota 2 Chat Log Data Set
+## Dota 2 Chat Log Data Set
 Training Set Count: 1000
-## Labels
+### Labels
 None of the labels are mutually exclusive. You may encounter toxic teamwork. Just like the workplace sometimes.
 ### Positivity, Teamwork, Sportsmanship
 - Positivity
@@ -14,9 +14,12 @@ None of the labels are mutually exclusive. You may encounter toxic teamwork. Jus
     - Communication to team about the game. Should be something relevant to the game. Telling a "noob" to go mid still counts as team work. 
 - Sportsmanship
     - Calling out something positive in someone else during the game, being a good "sport". It may be as simple as "GG", or complimenting another player (same team or other team)
+### Neutral 
+- Neutral
+    - Comment is neutral. Doesn't seem to relate in a positive or negatative way to what is going on, or isn't easily understood in context.    
 ### Spam, Toxic, Report_Misuse
 - Spam
-    - Text is spamming or advertising something not related to the game. It could be a twitch channel, or something repeated over and over without merit
+    - Text is spamming or advertising something not related to the game. It could be a twitch channel, or something repeated over and over without merit. Begging for commends is a good example too.
 - Toxic
     - Communication contains vulgar language, put downs, severly negative comments about team mates or opposing team. Comments about someone's mom.
 - Report_Misuse
